@@ -4,6 +4,8 @@
 ## Запуск
 
 ```bash
+git clone https://github.com/semyoonov/Department-API.git
+cd Department-API
 docker-compose up -d --build
 ```
 
