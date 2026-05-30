@@ -2,11 +2,9 @@
 *API организационной структуры*
 
 ## Запуск
-
+- Скопировать проект
 - Заполнить `.env` файл, пример в `.env.example`
-
-
-- Скопировать, запустить
+- Запустить
 ```bash
 git clone https://github.com/semyoonov/Department-API.git
 cd Department-API
